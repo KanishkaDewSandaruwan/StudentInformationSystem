@@ -1,0 +1,49 @@
+.reg_form1{
+	width: 100%;
+	background-color: #0f3460;
+	padding: 5%;
+	color: yellow;
+	border-radius: 2em;
+	font-family: \"Times New Roman\", Times, serif;
+	font-size: 18px;
+	margin-top: -4%;
+}
+.reg_form1_treat{
+	width: 100%;
+	background-color: #0f3460;
+	padding: 5%;
+	color: yellow;
+	border-radius: 2em;
+	font-family: \"Times New Roman\", Times, serif;
+	font-size: 18px;
+	margin-top: -4%;
+}
+
+div.view_div{
+	background-color: #0f3460;
+	width: 100%;
+	padding: 2%;
+	font-family: \"Times New Roman\", Times, serif;
+	color: white;
+	text-align: center;
+	margin-top: -4.5%;
+	margin-left: -1%;
+	border-radius: 2em;
+}
+table.student_table_new{
+	border:1px solid white;
+	padding: 1%;
+
+}
+table.student_table_new th{
+	border:1px solid white;
+	padding: 1%;
+}
+table.student_table_new td{
+	border:1px solid white;
+	padding: 1px;
+}
+
+.form_hed{
+
+}
